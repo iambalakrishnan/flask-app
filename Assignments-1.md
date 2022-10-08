@@ -27,6 +27,7 @@ show list of docker images
 ## docker ps
 
 Shows list of running docker container
+
 <img src="images/05" width="700" title="hover text">
 
 ## docker ps -a
